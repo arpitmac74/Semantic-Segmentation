@@ -1,0 +1,11 @@
+torch 
+torchvision
+json
+flask 
+flask_restful
+numpy 
+glob 
+pickle
+flask_sqlalchemy
+flask_marshmallow
+time
